@@ -13,7 +13,7 @@ print("index -1 value", list1[-1])
 
 #multiple types of values inside list
 list2=[10,'A',"hello",12.12,True]
-print(list2)
+print("values are:",list2)
 
 #list inside list
 list3=[10,'A',"hello",12.12,True,['A','B','c']]

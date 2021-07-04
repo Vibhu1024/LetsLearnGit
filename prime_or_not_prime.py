@@ -14,6 +14,6 @@ for _ in range(T):
     n = int(input())
     
     if n >= 2 and isPrime(n):
-        print("Prime")
+        print("Prime no.")
     else:
-        print("Not prime")
+        print("Not a prime no.")
