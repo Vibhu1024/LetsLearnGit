@@ -1,5 +1,5 @@
-a=int(input("enter no. a:"))
-b=int(input("enter no. b:"))
+a=int(input("enter no. a is:"))
+b=int(input("enter no. b is:"))
 
 sum=a+b
 print("sum is:",sum)
